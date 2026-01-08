@@ -138,9 +138,9 @@ Documentação clara e objetiva
 ---
 
 ## 📞 Contato
-👤 Augusto Oliveira
+#### 👤 Augusto Oliveira
 💼 QA / QA Automation Engineer
-📧 Email: augustooliveira1406@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/augustooliveiraqa
-🐙 GitHub: https://github.com/augustooliveira1406
+#### 📧 Email: augustooliveira1406@gmail.com
+#### 🔗 LinkedIn: https://www.linkedin.com/in/augustooliveiraqa
+#### 🐙 GitHub: https://github.com/augustooliveira1406
 
